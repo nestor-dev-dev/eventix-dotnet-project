@@ -1,0 +1,98 @@
+﻿@model WebAppEventix.Models.VisitaTuristicaGuiada
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>VisitaTuristicaGuiada</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Ciudad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ciudad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TituloRecorrido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TituloRecorrido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pago)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pago)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AgenciaTourOperadora)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AgenciaTourOperadora)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaHora)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaHora)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DuracionEstimada)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DuracionEstimada)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LugarInicio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LugarInicio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LugarFin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LugarFin)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

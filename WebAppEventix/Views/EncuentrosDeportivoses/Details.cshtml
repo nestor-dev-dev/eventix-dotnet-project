@@ -1,0 +1,98 @@
+﻿@model WebAppEventix.Models.EncuentrosDeportivos
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>EncuentrosDeportivos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Deporte)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Deporte)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TituloPartido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TituloPartido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EquipoLocal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EquipoLocal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EquipoVisitante)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EquipoVisitante)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ciudad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ciudad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Lugar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Lugar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioMinimo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioMinimo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioMedio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioMedio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioMaximo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioMaximo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EncuentrosDeportivosId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

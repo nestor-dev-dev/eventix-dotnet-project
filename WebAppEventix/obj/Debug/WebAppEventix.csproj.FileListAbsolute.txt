@@ -1,0 +1,1143 @@
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\WebAppEventix.dll.config
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\WebAppEventix.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\WebAppEventix.pdb
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\csc.exe
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\csc.exe.config
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\csc.rsp
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\csi.exe
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\csi.exe.config
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\csi.rsp
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.AppContext.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Console.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Net.Http.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.ValueTuple.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\vbc.exe
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\vbc.exe.config
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\vbc.rsp
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Antlr3.Runtime.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\EntityFramework.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Newtonsoft.Json.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Owin.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.Helpers.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.Mvc.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.Optimization.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.Razor.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\WebGrease.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.Helpers.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.Mvc.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.Optimization.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.Razor.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Newtonsoft.Json.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Antlr3.Runtime.pdb
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\EntityFramework.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEv.DE4EDDFB.Up2Date
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.pdb
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.InitialCreate.resources
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.GenerateResource.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\WebAppEventix.dll.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\WebAppEventix.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\WebAppEventix.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\csc.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\csc.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\csc.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\csi.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\csi.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\csi.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.AppContext.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Console.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Net.Http.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.ValueTuple.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\vbc.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\vbc.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\vbc.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Antlr3.Runtime.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\EntityFramework.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Newtonsoft.Json.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.Helpers.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.Mvc.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.Optimization.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.Razor.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.WebPages.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\WebGrease.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.Helpers.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.Mvc.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.Optimization.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.Razor.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.WebPages.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Newtonsoft.Json.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Antlr3.Runtime.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\EntityFramework.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.AssemblyReference.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.InitialCreate.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.GenerateResource.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.CoreCompileInputs.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\obj\Debug\WebAppEv.DE4EDDFB.Up2Date
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\obj\Debug\WebAppEventix.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\Eventix\WebAppEventix\obj\Debug\WebAppEventix.pdb
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\WebAppEventix.dll.config
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\WebAppEventix.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\WebAppEventix.pdb
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\csc.exe
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\csc.exe.config
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\csc.rsp
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\csi.exe
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\csi.exe.config
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\csi.rsp
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.AppContext.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Console.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Net.Http.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.ValueTuple.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\vbc.exe
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\vbc.exe.config
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\vbc.rsp
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Antlr3.Runtime.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\EntityFramework.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Newtonsoft.Json.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Owin.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.Helpers.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.Mvc.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.Optimization.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.Razor.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.WebPages.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\WebGrease.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\EntityFramework.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.Helpers.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.Mvc.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.Optimization.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.Razor.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.WebPages.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Newtonsoft.Json.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Antlr3.Runtime.pdb
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\upm\source\repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.AssemblyReference.cache
+C:\Users\upm\source\repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.InitialCreate.resources
+C:\Users\upm\source\repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoVisitaTuristicaGuiada.resources
+C:\Users\upm\source\repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.GenerateResource.cache
+C:\Users\upm\source\repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.CoreCompileInputs.cache
+C:\Users\upm\source\repos\Eventix\WebAppEventix\obj\Debug\WebAppEv.DE4EDDFB.Up2Date
+C:\Users\upm\source\repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.dll
+C:\Users\upm\source\repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\WebAppEventix.dll.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\WebAppEventix.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\WebAppEventix.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\csc.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\csc.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\csc.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\csi.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\csi.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\csi.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.AppContext.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Console.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.IO.Compression.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Net.Http.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.ValueTuple.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\vbc.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\vbc.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\vbc.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\VBCSCompiler.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Antlr3.Runtime.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\EntityFramework.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\EntityFramework.SqlServer.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Newtonsoft.Json.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.Helpers.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.Mvc.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.Optimization.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.Razor.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.WebPages.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.WebPages.Razor.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\WebGrease.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\EntityFramework.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\EntityFramework.SqlServer.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.Helpers.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.Mvc.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.Optimization.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.Razor.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.WebPages.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\System.Web.WebPages.Razor.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Newtonsoft.Json.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Antlr3.Runtime.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\obj\Debug\WebAppEventix.csproj.AssemblyReference.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\obj\Debug\WebAppEventix.Migrations.InitialCreate.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoVisitaTuristicaGuiada.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\obj\Debug\WebAppEventix.csproj.GenerateResource.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\obj\Debug\WebAppEventix.csproj.CoreCompileInputs.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\obj\Debug\WebAppEv.DE4EDDFB.Up2Date
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\obj\Debug\WebAppEventix.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\EventixClone\WebAppEventix\obj\Debug\WebAppEventix.pdb
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\WebAppEventix.dll.config
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\WebAppEventix.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\WebAppEventix.pdb
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\csc.exe
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\csc.exe.config
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\csc.rsp
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\csi.exe
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\csi.exe.config
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\csi.rsp
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.AppContext.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Console.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Net.Http.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.ValueTuple.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\vbc.exe
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\vbc.exe.config
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\vbc.rsp
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Antlr3.Runtime.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\EntityFramework.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Newtonsoft.Json.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Owin.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.Helpers.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.Mvc.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.Optimization.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.Razor.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.WebPages.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\WebGrease.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\EntityFramework.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.Helpers.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.Mvc.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.Optimization.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.Razor.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.WebPages.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Newtonsoft.Json.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Antlr3.Runtime.pdb
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.AssemblyReference.cache
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.InitialCreate.resources
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoVisitaTuristicaGuiada.resources
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.GenerateResource.cache
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.CoreCompileInputs.cache
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\obj\Debug\WebAppEv.DE4EDDFB.Up2Date
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.dll
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.pdb
+C:\Users\adria\Source\Repos\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.AddRequiredVisitaTuristica.resources
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\WebAppEventix.dll.config
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\WebAppEventix.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\WebAppEventix.pdb
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\csc.exe
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\csc.exe.config
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\csc.rsp
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\csi.exe
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\csi.exe.config
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\csi.rsp
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.AppContext.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Console.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Net.Http.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.ValueTuple.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\vbc.exe
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\vbc.exe.config
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\vbc.rsp
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Antlr3.Runtime.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\EntityFramework.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Newtonsoft.Json.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Owin.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.Helpers.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.Mvc.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.Optimization.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.Razor.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.WebPages.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\WebGrease.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\EntityFramework.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.Helpers.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.Mvc.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.Optimization.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.Razor.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.WebPages.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Newtonsoft.Json.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Antlr3.Runtime.pdb
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adria\Desktop\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.InitialCreate.resources
+C:\Users\adria\Desktop\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoVisitaTuristicaGuiada.resources
+C:\Users\adria\Desktop\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.AddRequiredVisitaTuristica.resources
+C:\Users\adria\Desktop\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Eventix\WebAppEventix\obj\Debug\WebAppEv.DE4EDDFB.Up2Date
+C:\Users\adria\Desktop\Eventix\WebAppEventix\obj\Debug\WebAppEventix.dll
+C:\Users\adria\Desktop\Eventix\WebAppEventix\obj\Debug\WebAppEventix.pdb
+C:\Users\adria\Desktop\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NewMusicales.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\WebAppEventix.dll.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\WebAppEventix.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\WebAppEventix.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\csc.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\csc.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\csc.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\csi.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\csi.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\csi.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.AppContext.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Console.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.IO.Compression.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Net.Http.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.ValueTuple.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\vbc.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\vbc.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\vbc.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\VBCSCompiler.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Antlr3.Runtime.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\EntityFramework.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\EntityFramework.SqlServer.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Newtonsoft.Json.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.Helpers.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.Mvc.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.Optimization.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.Razor.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.WebPages.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.WebPages.Razor.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\WebGrease.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\EntityFramework.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\EntityFramework.SqlServer.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.Helpers.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.Mvc.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.Optimization.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.Razor.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.WebPages.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\System.Web.WebPages.Razor.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Newtonsoft.Json.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Antlr3.Runtime.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEventix.csproj.AssemblyReference.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEventix.Migrations.InitialCreate.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoVisitaTuristicaGuiada.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEventix.Migrations.AddRequiredVisitaTuristica.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NewMusicales.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEventix.csproj.GenerateResource.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEventix.csproj.CoreCompileInputs.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEv.DE4EDDFB.Up2Date
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEventix.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEventix.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoConcierto.resources
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\WebAppEventix.dll.config
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\WebAppEventix.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\WebAppEventix.pdb
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\csc.exe
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\csc.exe.config
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\csc.rsp
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\csi.exe
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\csi.exe.config
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\csi.rsp
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.AppContext.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Console.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Net.Http.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.ValueTuple.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\vbc.exe
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\vbc.exe.config
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\vbc.rsp
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Antlr3.Runtime.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\EntityFramework.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Newtonsoft.Json.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Owin.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.Helpers.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.Mvc.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.Optimization.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.Razor.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.WebPages.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\WebGrease.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\EntityFramework.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.Helpers.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.Mvc.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.Optimization.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.Razor.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.WebPages.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Newtonsoft.Json.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Antlr3.Runtime.pdb
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.InitialCreate.resources
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoVisitaTuristicaGuiada.resources
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.AddRequiredVisitaTuristica.resources
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NewMusicales.resources
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoConcierto.resources
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.GenerateResource.cache
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEv.DE4EDDFB.Up2Date
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.dll
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.pdb
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoEncuentrosDeportivos.resources
+C:\Users\danie\Documents\Uni\Grado 3\Semestre 1\IPS\Práctica\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoObrasTeatro.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\WebAppEventix.dll.config
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\WebAppEventix.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\WebAppEventix.pdb
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\csc.exe
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\csc.exe.config
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\csc.rsp
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\csi.exe
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\csi.exe.config
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\csi.rsp
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.AppContext.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Console.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Net.Http.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.ValueTuple.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\vbc.exe
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\vbc.exe.config
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\vbc.rsp
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Antlr3.Runtime.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\EntityFramework.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Newtonsoft.Json.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Owin.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.Helpers.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.Mvc.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.Optimization.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.Razor.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\WebGrease.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\EntityFramework.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.Helpers.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.Mvc.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.Optimization.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.Razor.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Newtonsoft.Json.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Antlr3.Runtime.pdb
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.AssemblyReference.cache
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.InitialCreate.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoVisitaTuristicaGuiada.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.AddRequiredVisitaTuristica.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NewMusicales.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoConcierto.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoEncuentrosDeportivos.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoObrasTeatro.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.GenerateResource.cache
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.CoreCompileInputs.cache
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEv.DE4EDDFB.Up2Date
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.dll
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.pdb
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoVisitaMuseos.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\WebAppEventix.dll.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\WebAppEventix.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\WebAppEventix.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\csc.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\csc.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\csc.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\csi.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\csi.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\csi.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.AppContext.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Console.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Net.Http.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.ValueTuple.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\vbc.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\vbc.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\vbc.rsp
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Antlr3.Runtime.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\EntityFramework.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Newtonsoft.Json.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Owin.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.Helpers.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.Mvc.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.Optimization.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.Razor.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.WebPages.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\WebGrease.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\EntityFramework.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\EntityFramework.SqlServer.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.Helpers.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.Mvc.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.Optimization.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.Razor.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.WebPages.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\System.Web.WebPages.Razor.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Newtonsoft.Json.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Antlr3.Runtime.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.AssemblyReference.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.InitialCreate.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoVisitaTuristicaGuiada.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.AddRequiredVisitaTuristica.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NewMusicales.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoConcierto.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoEncuentrosDeportivos.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoObrasTeatro.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NuevoVisitaMuseos.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.GenerateResource.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.csproj.CoreCompileInputs.cache
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEv.DE4EDDFB.Up2Date
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.dll
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.pdb
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.ConfConcierto.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NewOpiniones.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.ProblemasDislexia.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.AjusteNuevoConcierto.resources
+C:\Users\lueng\Desktop\UNIVERSIDAD\IPS\2024-G04-DAANIX-Innovators\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.AutentificacionConcierto.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.ConfConcierto.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.NewOpiniones.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.ProblemasDislexia.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.AjusteNuevoConcierto.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.AutentificacionConcierto.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.VisitaMuseosconUsuario.resources
+C:\Users\elpin\OneDrive\Escritorio\Universidad\Año 3\1er Cuatrimestre\IPS\Eventix\Eventix\WebAppEventix\obj\Debug\WebAppEventix.Migrations.ObrasTeatroconUsuario.resources

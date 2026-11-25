@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WebAppEventix/.vs/WebAppEventix
+/WebAppEventix/App_Data
+/WebAppEventix/.vs

@@ -1,0 +1,58 @@
+﻿@model WebAppEventix.Models.VisitaMuseos
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>VisitaMuseos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TituloVisita)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TituloVisita)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreMuseo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreMuseo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DiasCerrado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiasCerrado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ObrasDestacadas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ObrasDestacadas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioEntrada)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioEntrada)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.VisitaMuseosId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
